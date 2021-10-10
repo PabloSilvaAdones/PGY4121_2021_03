@@ -24,7 +24,7 @@ o
 ionic serve --lab
 
 
-# Para crear un nueve elemento
+# Para crear un nuevo elemento
 ionic generate 
 
 ionic generate page
